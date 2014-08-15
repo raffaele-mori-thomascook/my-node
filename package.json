@@ -1,0 +1,21 @@
+{
+  "name": "my-node",
+  "version": "0.1.0",
+  "description": "a simple change calculator in node.js - see: https://github.com/nelsonic/learn-mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raffaele-mori-thomascook/my-node.git"
+  },
+  "author": "raffaele (with @nelsonic)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/raffaele-mori-thomascook/my-node/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.21.4"
+  }
+}
