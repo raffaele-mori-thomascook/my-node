@@ -1,5 +1,5 @@
 {
-  "name": "my-node",
+  "name": "node-change-calculator",
   "version": "0.1.0",
   "description": "a simple change calculator in node.js - see: https://github.com/nelsonic/learn-mocha",
   "main": "index.js",
