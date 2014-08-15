@@ -1,4 +1,4 @@
-my-node
+node-change-calculator
 =======
 
 Node.js tutorials.
